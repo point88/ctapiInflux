@@ -1,0 +1,6 @@
+C:\Users\Admin\Downloads\Compressed\test_dll_call\influx\obj\Debug\influx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\test_dll_call\build\Debug\tag_influx_bridge.exe.config
+C:\Users\Admin\Downloads\Compressed\test_dll_call\build\Debug\tag_influx_bridge.exe
+C:\Users\Admin\Downloads\Compressed\test_dll_call\build\Debug\tag_influx_bridge.pdb
+C:\Users\Admin\Downloads\Compressed\test_dll_call\influx\obj\Debug\tag_influx_bridge.exe
+C:\Users\Admin\Downloads\Compressed\test_dll_call\influx\obj\Debug\tag_influx_bridge.pdb
